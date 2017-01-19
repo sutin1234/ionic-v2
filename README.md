@@ -32,6 +32,10 @@
 - Tabs
 - Toggle
 - Toast
+- Menu
+- Loading
+- Popover
+- Modal
 - Add provider
 - Add Pipe & Filter
 - Add Component & Custom Component
@@ -42,8 +46,13 @@
 - Http Cross Domain
 - Http & Webservices
 - Local Storage Database
+- Publish App
+- Upload To Stored
 
 -----------------------------------------------------------------------------------------
 # ionic v2 Workshop Traning Online On Hangout Application 
+- Start streamming On 28/01/2017  20:30:00
 -----------------------------------------------------------------------------------------
 # Teaching By T.sutin or Thinny
+- Thank You Everbody For Waching
+-----------------------------------------------------------------------------------------
