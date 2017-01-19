@@ -10,14 +10,39 @@
 - Created Project ionic v2 Blank | Slidemenu | Tabs Application
 - Basic ionic CLI Command For ionic v2 Development
 - First Program Of Hello World ionic v2
+- ToolBar
 - Add Page
 - Add Template
 - Add Style in Template
-- Add All Page
+- Change Color Master
+- Add Style All Page
+- Icons
+- NavController & NavParams
+- Button
+- Dialog
+- ion-list
+- Alert
+- Input
+- Form
+- Form Validation
+- CheckBox
+- RadioButton
+- Select
+- Slides
+- Tabs
+- Toggle
+- Toast
 - Add provider
 - Add Pipe & Filter
-- Add Component & modify Component
+- Add Component & Custom Component
 - Add Directive & Custom Directive
+- Event & EventEmiiter
+- HTTP services GET, POST
+- Http & MySQLi Database
+- Http Cross Domain
+- Http & Webservices
+- Local Storage Database
+
 -----------------------------------------------------------------------------------------
 # ionic v2 Workshop Traning Online On Hangout Application 
 -----------------------------------------------------------------------------------------
